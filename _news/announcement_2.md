@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I started my PhD @ Purdue ECE with a focus in Power Electronics. :cowboy_hat_face:
+I started my PhD @ Purdue ECE with a focus in Power Electronics.
