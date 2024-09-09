@@ -9,17 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>PhD @ Purdue ECE in Power Electronics</p>
+    <p>Elmore Family School of Electrical and Computer Engineering</p>
+    <p>West Lafayette, IN (Location of study: Indianapolis)</p>
+    <p>mahmud13@purdue.edu</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an ECE PhD student at [Purdue University](https://www.purdue.edu) with a focus on `Power Electronics`. My graduate research spans HF Power Conversion Topologies, Predictive Control, Electric Motor Drives and Inverters.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Recently, I received my MS degree from [WSU](https://wsu.edu) EECS with a 4.0 GPA, advised by [Dr. Hang Gao](https://scholar.google.com/citations?hl=en&user=Wj4zV9cAAAAJ&view_op=list_works&sortby=pubdate). My Master's thesis has investigated four branches of efforts aiming the modulations and dynamic controls of high-power current-source converters. In my Master's graduating class, I was the recipient of '2024 Outstanding Graduate Student' and '2024 Outstanding TA: Grader/Office Hours". I also hold a BSc majoring in EEE at [BRACU](https://www.bracu.ac.bd) and received mentorship from [Dr. AKM Azad](https://www.bracu.ac.bd/about/people/akm-abdul-malek-azad-phd) during my senior thesis.
