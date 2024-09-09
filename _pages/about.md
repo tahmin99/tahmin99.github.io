@@ -2,17 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: GRA/GTA at Purdue ECE. Previously - [PEMD Group](https://labs.wsu.edu/pemd/faculty-and-students/) at WSU / CARC at BRACU
+subtitle: GRA/GTA at Purdue ECE. Previously: PEMD Group at WSU / CARC at BRACU
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>PhD Student (Power Electronics)</p>
+    <p>PhD Student</p>
     <p>Electrical and Computer Engineering</p>
     <p>West Lafayette, IN</p>
-    <p>Location of study: Indianapolis</p>
     <p>Purdue University</p>
     <p>mahmud13@purdue.edu</p>
 
