@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am flying to Phoenix, AZ around the last week of October for presenting my paper!
+I am flying to Phoenix, AZ around the last week of October to present my research work at ECCE 2024.
