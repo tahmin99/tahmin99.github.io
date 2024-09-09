@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "**GRA/GTA** at Purdue ECE. **Previously:** PEMD Group at WSU / CARC at BRACU"
+subtitle: GRA/GTA at Purdue ECE. Previously- PEMD Group at WSU / CARC at BRACU
 
 profile:
   align: right
