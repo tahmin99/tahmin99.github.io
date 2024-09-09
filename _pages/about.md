@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: GRA/GTA at Purdue ECE. Previously: [PEMD Group](https://labs.wsu.edu/pemd/faculty-and-students/) at WSU / CARC at BRACU
 
 profile:
   align: right
